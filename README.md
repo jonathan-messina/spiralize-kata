@@ -32,3 +32,4 @@ Return value should contain array of arrays, of 0 and 1, for example for given s
 Because of the edge-cases for tiny spirals, the size will be at least 5.
 
 General rule-of-a-thumb is, that the snake made with '1' cannot touch to itself.
+.
